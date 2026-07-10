@@ -4,7 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Website Growth Strategy | The Music Dept</title>
-    
+    <meta name="description" content="A search-first website growth strategy for The Music Dept — SEO, AI search, local SEO, and custom Studio Tools. Prepared by Kay Ali.">
+    <link rel="icon" type="image/png" href="the-music-dept-favicon.png">
+    <link rel="apple-touch-icon" href="the-music-dept-favicon.png">
+
     <!-- Google Fonts for Brutalist/Indie Studio look -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -64,9 +67,8 @@
             display: flex; align-items: center; justify-content: center;
             font-family: var(--font-heading); font-weight: 700; font-size: 19px; letter-spacing: -1px;
         }
-        .masthead .wm { display: flex; flex-direction: column; line-height: 1.15; }
-        .masthead .wm .nm { font-family: var(--font-heading); font-weight: 700; font-size: 22px; letter-spacing: 1px; color: #fff; text-transform: uppercase; }
-        .masthead .wm .sb { font-family: var(--font-mono); font-size: 12px; color: var(--brand); text-transform: uppercase; letter-spacing: 1px; margin-top: 5px; }
+        .masthead .brand-logo { height: 60px; width: auto; display: block; flex-shrink: 0; }
+        .masthead .masthead-tag { font-family: var(--font-mono); font-size: 12px; color: var(--brand); text-transform: uppercase; letter-spacing: 1px; }
         .masthead .est {
             margin-left: auto; flex-shrink: 0;
             font-family: var(--font-mono); font-size: 12px; font-weight: 700; color: #fff;
@@ -75,10 +77,13 @@
         @media (max-width: 600px) {
             .masthead { padding: 16px 20px; gap: 12px; }
             .masthead .est { display: none; }
-            .masthead .wm .nm { font-size: 17px; }
-            .masthead .wm .sb { font-size: 10px; }
-            .masthead .mark { width: 46px; height: 46px; font-size: 16px; }
+            .masthead .masthead-tag { display: none; }
+            .masthead .brand-logo { height: 44px; }
         }
+
+        /* CLOSING LOGO */
+        .close-logo { display: block; height: 72px; width: auto; margin: 0 0 26px; }
+        @media (max-width: 600px) { .close-logo { height: 54px; } }
 
         /* WORDPRESS BADGE */
         .wp-badge {
@@ -346,11 +351,8 @@
 
             <!-- BRAND MASTHEAD -->
             <div class="masthead">
-                <div class="mark">TMD</div>
-                <div class="wm">
-                    <span class="nm">The Music Dept</span>
-                    <span class="sb">Rehearsal · Recording · Production — Bethesda, MD</span>
-                </div>
+                <img class="brand-logo" src="the-music-dept-logo.png" alt="The Music Dept" width="83" height="60">
+                <span class="masthead-tag">Rehearsal · Recording · Production — Bethesda, MD</span>
                 <div class="est">For: Justin Campbell</div>
             </div>
 
@@ -575,6 +577,7 @@
 
             <!-- ACCEPT & SIGN -->
             <div class="section dark" id="sign" style="border-bottom: none;">
+                <img class="close-logo" src="the-music-dept-logo.png" alt="The Music Dept">
                 <span class="eyebrow" style="background: var(--brand); color: #000;">Project Initiation</span>
                 <h2 class="section-title">Accept terms and condition and sign</h2>
                 <p class="section-lede">Ready to transform The Music Dept into a growth platform? Review the project terms and sign below to authorize initiation.</p>
