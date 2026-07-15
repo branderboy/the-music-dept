@@ -259,6 +259,6 @@ One line of math: 14 lockouts + 4 artist blocks + 3 podcast slots + 2 listening 
 
 **Website Growth System**
 
-**Fixed Investment: $1,500**
+**Fixed Investment: $1,500** — paid in full upon acceptance. One payment, no installments.
 
 One engagement. The complete system: revenue model, website, content engine, Bethesda Community Directory, Studio Growth Tools™ architecture, local and AI search strategy, conversion system, and the five-phase build roadmap.
