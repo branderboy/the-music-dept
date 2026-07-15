@@ -539,7 +539,7 @@ Hook:
 
 "If you're comparing rehearsal spaces around DC, here's why bands keep coming back to The Music Dept."
 
-2. Record Where Music History Was Made
+2. Didnt Barbara Streisand, The Grateful Dead, David Bowie, and Stevie Wonder Record Here? 
 
 Target: Recording artists.
 
