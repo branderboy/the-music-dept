@@ -65,11 +65,43 @@ Six buyer types, ranked by lifetime value.
 
 ---
 
+# Demand Channels
+
+This system is built around how buyers already find and contact the studio — not a theory.
+
+**Discovery happens in four places, in this order:**
+
+1. **Google Business Profile** — the #1 lead source; rebuilt with pricing, photos, and weekly posts
+2. **Social media** — TikTok + IG discovery videos on a weekly cadence
+3. **Google search** — offer, near, and city pages
+4. **AI search** — AEO/GEO so ChatGPT and Gemini recommend the studio
+
+**Conversations happen in four others:** DMs, email, phone, and Facebook group comments. Every piece of this plan feeds one of those eight channels.
+
+**ManyChat automation.** ManyChat is wired into Instagram and Facebook. Comment or DM a keyword — "BOOK" or "RATES" — and the buyer instantly gets the rate card, the right offer page, and the booking link, while the lead is captured automatically. No inquiry waits overnight. Facebook group comments get the same treatment: a keyword reply moves the conversation to DM, where the automation closes the loop.
+
+**Cold email — the area list.** A cold list of area artists, DJs, and event planners gets a short sequence: who we are, the offer math, the capability PDF, the booking link. Every reply gets pricing the same day. This runs alongside the 50-contact partner outreach — that list works the bulk buyers; this one fills the calendar.
+
+**The 10 discovery videos (TikTok + IG).** Shot in one batch, published on a schedule. Every one ends with the same call to action — "DM 'BOOK'" — feeding ManyChat directly:
+
+1. 30-second full studio tour
+2. Room-by-room gear breakdown
+3. "What $250 gets you" — lockout day
+4. Podcast setup time-lapse
+5. Listening party recap reel
+6. Real session clip with an artist
+7. "What an EP actually costs"
+8. Behind the board — engineer at work
+9. What to bring to your first session
+10. "Everything 5 minutes from the studio" — directory teaser
+
+---
+
 # Website Strategy
 
-The website is not a brochure. It is the sales platform — and its job is to shorten every buying decision.
+**This is not a new website.** It is an extension of the current site — same domain, same brand, same booking system — with a sales layer added on top. Its job is to shorten every buying decision.
 
-**Offer Pages (4).** One page per revenue engine: Lockout, Artist Block, Podcast Slot, Listening Party. Each shows the rate, the gear, the room, the photos — and links directly into the existing booking system.
+**Offer Pages (4).** One page per revenue engine: Lockout, Artist Block, Podcast Slot, Listening Party. Each shows the rate, the gear, the room, the photos — links directly into the existing booking system, and carries a text-to-book SMS link for buyers who'd rather text than fill a form.
 
 **Audience Pages.** Dedicated pages for producers, managers, labels, podcast networks, bands, and artists. Each one states the deal, the math versus retail rates, and who to call. These buyers skim; the pages are built for skimming.
 
@@ -184,6 +216,8 @@ Traffic is worthless if booking is hard. Every element below removes friction:
 
 - **Published pricing** on every offer — no "call for rates"
 - **Direct booking integration** from every page
+- **SMS text-to-book** on every offer page
+- **ManyChat instant replies** in DMs and comments
 - **Review generation** — a same-day ask after every session, compounding toward 100+
 - **Photo galleries** of real rooms, real gear, real sessions — no stock imagery
 - **Trust indicators** — gear lists, room specs, capacity, load-in details
@@ -191,20 +225,22 @@ Traffic is worthless if booking is hard. Every element below removes friction:
 - **Capability PDF** for the buyers who forward instead of browse
 - **Fast booking path** — from any page to a confirmed booking in the fewest possible clicks
 
-The measure of the website is not traffic. It is the time between arrival and booking.
+**Closing rate.** Most contacts arrive by DM, email, phone, and Facebook comments — and deals are won or lost on response speed. The rule: every inquiry gets the price and the booking link in minutes, not days. ManyChat handles DMs and comments instantly; templates handle email and SMS; published pricing kills the back-and-forth. Closing rate — inquiry to booking — is tracked from week one as the headline conversion number.
+
+The measure of the website is not traffic. It is the time between arrival and booking, and the rate at which inquiries close.
 
 ---
 
 # Build Roadmap
 
 **Phase 1 — Revenue Foundation**
-All four offers defined and priced. All rates published. Offer pages live and linked to the booking system. The 50-contact outreach list built. *Deliverables: 4 offer pages, published rate card, outreach list.*
+All four offers defined and priced. All rates published. Offer pages live and linked to the booking system. The 50-contact partner outreach list built, plus the cold email list of area artists, DJs, and event planners. *Deliverables: 4 offer pages, published rate card, partner outreach list, cold email list.*
 
-**Phase 2 — Website**
-Audience pages for all six buyer types. Capability PDF. Location dataset assembled; templates built. *Deliverables: 6 audience pages, capability PDF, template and data system.*
+**Phase 2 — Website Extension**
+Audience pages for all six buyer types, added to the existing site. Capability PDF. SMS text-to-book and ManyChat keyword automation wired in. Location dataset assembled; templates built. *Deliverables: 6 audience pages, capability PDF, SMS + ManyChat, template and data system.*
 
 **Phase 3 — Content System**
-Bethesda Community Directory generates from the dataset. GEO near pages and city pages go live. Google Business Profile rebuilt. Question Hub launches with the first 10 answers. *Deliverables: directory (hundreds of pages), near/city pages, GBP rebuild, 10-question hub.*
+Bethesda Community Directory generates from the dataset. GEO near pages and city pages go live. Google Business Profile rebuilt. Question Hub launches with the first 10 answers. The 10 discovery videos shot in one batch and scheduled for TikTok and IG. *Deliverables: directory (hundreds of pages), near/city pages, GBP rebuild, 10-question hub, 10 discovery videos.*
 
 **Phase 4 — Growth Tools**
 Missing Royalty Finder and Recording Budget Calculator ship. Release Planner and Session Checklist follow. Every tool wired to lead capture and offer pages. *Deliverables: 4 Studio Growth Tools™, live and capturing leads.*
@@ -226,7 +262,9 @@ The business metrics come first. The marketing metrics exist to serve them. The 
 - Podcast Slots filled (target: 3)
 - Listening Parties booked (target: 2/mo)
 - Total Monthly Bookings
-- Qualified Leads from tools and pages
+- Qualified Leads from tools, pages, and DMs
+- Closing Rate — inquiry to booking
+- Speed to Reply — minutes, not days
 
 **Market position:**
 
@@ -261,4 +299,6 @@ One line of math: 14 lockouts + 4 artist blocks + 3 podcast slots + 2 listening 
 
 **Fixed Investment: $1,500** — paid in full upon acceptance. One payment, no installments.
 
-One engagement. The complete system: revenue model, website, content engine, Bethesda Community Directory, Studio Growth Tools™ architecture, local and AI search strategy, conversion system, and the five-phase build roadmap.
+**Performance Bonus: $4,000** — due only in the first month The Music Dept books $8,400 in revenue under this model. If the system doesn't deliver, the bonus is never due.
+
+One engagement. The complete system: revenue model, demand channels, website extension, content engine, Bethesda Community Directory, Studio Growth Tools™ architecture, local and AI search strategy, conversion system, and the five-phase build roadmap.
